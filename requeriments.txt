@@ -1,5 +1,11 @@
 pandas
 matplotlib
-numpy
 unidecode
 nltk
+bertopic
+umap
+hdbscan
+sentence_transformers
+numpy==2.2
+ipywidgets
+jupyter
